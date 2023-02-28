@@ -1,0 +1,43 @@
+.bio img{
+    border-radius: 100%;
+}
+.bio{
+    padding:5px;
+    background-image: url('/pexels-felix-mittermeier-957024\ \(2\)\ \(1\)\ \(1\)\ \(1\).jpg');
+    background-size: cover;
+    text-align: center;
+  }
+
+  .border{
+    background-color:darkolivegreen;
+    padding: 3px;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    margin-left: 400px;
+    text-size-adjust: 20;
+    height: 200px;
+    width: 500px;
+  }
+  
+  .bio ul li {
+    display: inline-block;
+    color: black;
+    margin-right: 20px;
+    text-align: center;
+
+  }
+  
+  .container{
+    width: 80% auto;
+  }
+  
+  .isi table{
+    margin-top: 20px;
+    padding: 20px;
+    background-color:lightgreen;
+    background-size: cover;
+    height: 50px;
+    width: 1300px;
+    margin-right: 100px;
+  }
